@@ -95,7 +95,7 @@ Melalui praktikum ini, mahasiswa memahami pentingnya exception handling dalam Ja
 * Disarankan untuk selalu menggunakan `try-catch` terutama saat berinteraksi dengan input/output atau operasi rawan error.
 * Latihan pembuatan custom exception sangat baik untuk kasus bisnis tertentu di dunia nyata.
 
-✨ Created by:👩‍💻 Nama: Kayla Puspita Khairiyah🆔 NIM: 20230040159🏫 Kelas: TI23E
+✨ Created by:👩‍💻 Kayla Puspita Khairiyah
 
 📘 Terima kasih telah membaca laporan ini!
 
